@@ -11,7 +11,7 @@ The anarchic international system is actually heavily structured: communities of
 
 Replication Instructions
 ---
-GitHub blocks files larger than 100 MB and our network data are large. To access the replication file, please use this Dropbox [Link](https://www.dropbox.com/s/9ubb8y4o1wu15jt/Archive.zip?dl=0). We will move all files and data here when github allows a larger storage for free.
+GitHub blocks files larger than 100 MB and our network data are pretty large. To access the replication file, please use this Dropbox [Link](https://www.dropbox.com/s/9ubb8y4o1wu15jt/Archive.zip?dl=0). We will move all files and data here when github allows a larger storage for free.
 
 Citation
 ---
