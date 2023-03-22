@@ -1,5 +1,4 @@
 # Hierarchy and the Provision of Order in International Politics
-This is the repository for the paper *Hierarchy and the Provision of Order in International Politics.* The Journal of Politics. 82(2):731-746.
 
 Authors
 ---
